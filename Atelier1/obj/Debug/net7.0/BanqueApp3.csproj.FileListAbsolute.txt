@@ -1,0 +1,29 @@
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp3.exe
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp3.deps.json
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp3.runtimeconfig.json
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp3.dll
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp3.pdb
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.AssemblyInfoInputs.cache
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.AssemblyInfo.cs
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.csproj.CoreCompileInputs.cache
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.dll
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\refint\BanqueApp3.dll
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.pdb
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.genruntimeconfig.cache
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\ref\BanqueApp3.dll
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp3.csproj.AssemblyReference.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\bin\Debug\net7.0\BanqueApp3.exe
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\bin\Debug\net7.0\BanqueApp3.deps.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\bin\Debug\net7.0\BanqueApp3.runtimeconfig.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\bin\Debug\net7.0\BanqueApp3.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\bin\Debug\net7.0\BanqueApp3.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\BanqueApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\BanqueApp3.AssemblyInfoInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\BanqueApp3.AssemblyInfo.cs
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\BanqueApp3.csproj.CoreCompileInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\BanqueApp3.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\refint\BanqueApp3.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\BanqueApp3.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\BanqueApp3.genruntimeconfig.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier3 - Copie\obj\Debug\net7.0\ref\BanqueApp3.dll

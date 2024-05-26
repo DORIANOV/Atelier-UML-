@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BanqueApp3/1.0.0": {
+        "runtime": {
+          "BanqueApp3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BanqueApp3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

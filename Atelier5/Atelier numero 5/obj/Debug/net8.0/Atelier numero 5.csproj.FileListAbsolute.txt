@@ -1,0 +1,14 @@
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\bin\Debug\net8.0\Atelier numero 5.exe
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\bin\Debug\net8.0\Atelier numero 5.deps.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\bin\Debug\net8.0\Atelier numero 5.runtimeconfig.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\bin\Debug\net8.0\Atelier numero 5.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\bin\Debug\net8.0\Atelier numero 5.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\Atelier numero 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\Atelier numero 5.AssemblyInfoInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\Atelier numero 5.AssemblyInfo.cs
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\Atelier numero 5.csproj.CoreCompileInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\Atelier numero 5.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\refint\Atelier numero 5.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\Atelier numero 5.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\Atelier numero 5.genruntimeconfig.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier5\Atelier numero 5\obj\Debug\net8.0\ref\Atelier numero 5.dll

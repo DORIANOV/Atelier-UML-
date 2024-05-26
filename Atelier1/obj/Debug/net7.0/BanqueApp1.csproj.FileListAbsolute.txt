@@ -1,0 +1,14 @@
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\bin\Debug\net7.0\BanqueApp1.exe
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\bin\Debug\net7.0\BanqueApp1.deps.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\bin\Debug\net7.0\BanqueApp1.runtimeconfig.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\bin\Debug\net7.0\BanqueApp1.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\bin\Debug\net7.0\BanqueApp1.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\BanqueApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\BanqueApp1.AssemblyInfoInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\BanqueApp1.AssemblyInfo.cs
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\BanqueApp1.csproj.CoreCompileInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\BanqueApp1.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\refint\BanqueApp1.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\BanqueApp1.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\BanqueApp1.genruntimeconfig.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier1\obj\Debug\net7.0\ref\BanqueApp1.dll

@@ -1,0 +1,29 @@
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.csproj.AssemblyReference.cache
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.AssemblyInfoInputs.cache
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.AssemblyInfo.cs
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.csproj.CoreCompileInputs.cache
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp2.exe
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp2.deps.json
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp2.runtimeconfig.json
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp2.dll
+C:\Users\damie\source\repos\BanqueApp2\bin\Debug\net7.0\BanqueApp2.pdb
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.dll
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\refint\BanqueApp2.dll
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.pdb
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\BanqueApp2.genruntimeconfig.cache
+C:\Users\damie\source\repos\BanqueApp2\obj\Debug\net7.0\ref\BanqueApp2.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\bin\Debug\net7.0\BanqueApp2.exe
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\bin\Debug\net7.0\BanqueApp2.deps.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\bin\Debug\net7.0\BanqueApp2.runtimeconfig.json
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\bin\Debug\net7.0\BanqueApp2.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\bin\Debug\net7.0\BanqueApp2.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\BanqueApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\BanqueApp2.AssemblyInfoInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\BanqueApp2.AssemblyInfo.cs
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\BanqueApp2.csproj.CoreCompileInputs.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\BanqueApp2.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\refint\BanqueApp2.dll
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\BanqueApp2.pdb
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\BanqueApp2.genruntimeconfig.cache
+C:\Users\SIMON\Desktop\Atelier Uml lo_Pinto Groner lOUBIOU\Atelier2\obj\Debug\net7.0\ref\BanqueApp2.dll

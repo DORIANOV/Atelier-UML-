@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Atelier 6  Design pattern Chaine de responsabilité/1.0.0": {
+        "runtime": {
+          "Atelier 6  Design pattern Chaine de responsabilité.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atelier 6  Design pattern Chaine de responsabilité/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

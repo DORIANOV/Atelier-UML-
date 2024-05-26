@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SIMON\\Desktop\\Atelier Uml lo_Pinto Groner lOUBIOU\\Atelier1\\BanqueApp3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SIMON\\Desktop\\Atelier Uml lo_Pinto Groner lOUBIOU\\Atelier1\\BanqueApp3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SIMON\\Desktop\\Atelier Uml lo_Pinto Groner lOUBIOU\\Atelier1\\BanqueApp3.csproj",
+        "projectName": "BanqueApp3",
+        "projectPath": "C:\\Users\\SIMON\\Desktop\\Atelier Uml lo_Pinto Groner lOUBIOU\\Atelier1\\BanqueApp3.csproj",
+        "packagesPath": "C:\\Users\\SIMON\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SIMON\\Desktop\\Atelier Uml lo_Pinto Groner lOUBIOU\\Atelier1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SIMON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
